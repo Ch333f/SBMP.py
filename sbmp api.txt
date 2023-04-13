@@ -1,0 +1,8 @@
+https://api.sofascore.com/api/v1/event/10602050/lineups
+/api/v1/event/10602050/odds/1/featured
+https://api.sofascore.com/api/v1/event/10602050/best-players
+https://api.sofascore.com/api/v1/sport/3600/event-count
+
+
+https://api.sofascore.com/api/v1/event/ntbsFtb/h2h/events (event -past matches)
+https://api.sofascore.com/api/v1/event/10602050 ()
